@@ -1,6 +1,10 @@
+![](https://komarev.com/ghpvc/?username=karolzlot)
+
+
+<!--
 [![Karol Zlot profile views](https://u8views.com/api/v1/github/profiles/11590960/views/day-week-month-total-count.svg)](https://u8views.com/github/karolzlot)
 
-<!--## Hi there 👋
+## Hi there 👋
 **karolzlot/karolzlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
